@@ -1,5 +1,5 @@
 {
-    "name": "itigoppo/backlog-api",
+    "name": "tanakei1102/backlog-api",
     "description": "Backlog API Library for PHP",
     "type": "library",
     "require": {
@@ -13,9 +13,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "itigoppo",
-            "email": "itigoppo+github@gmail.com",
-            "homepage": "http://twitter.com/itigoppo"
+            "name": "tanakei1102",
+            "email": "keisukel.t1102@gmail.com",
+            "homepage": "@tanakei1102"
         }
     ],
     "minimum-stability": "stable",
